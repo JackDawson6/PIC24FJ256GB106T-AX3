@@ -9,7 +9,7 @@ __Hardware required for the project:__
   4.
 **Software required:**
 
-  1.[Microchip MPLABX ID v5.50](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
+  1.[Microchip MPLABX IDE v5.50](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
   
   2.[Microchip MLA library](https://www.microchip.com/en-us/tools-resources/develop/libraries/microchip-libraries-for-applications)
   
